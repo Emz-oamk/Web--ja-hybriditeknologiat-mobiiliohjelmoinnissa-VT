@@ -5,3 +5,4 @@ Web- ja hybriditeknologiat mobiiliohjelmoinnissa - kurssin viikkotehtävät
 2. Modal
 3. Material Design and Navigation
 4. Todo List
+5. Todo List with Reducer
